@@ -5,7 +5,7 @@
 ## Descargar la Aplicación
 Para instalar la aplicación en Windows, descarga el instalador desde nuestra sección de Releases:
 
-**[Descargar instalador (.msix) para Windows](AQUÍ_PEGA_EL_LINK_DE_DESCARGA_DE_TU_RELEASE)**
+**[Descargar instalador (.msix) para Windows](https://github.com/xavi-p-t/encriptacionFlutter/releases/tag/1.0.0)**
 
 ## Cómo utilizarla
 ### Encriptar un archivo:
